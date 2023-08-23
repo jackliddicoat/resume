@@ -1,6 +1,6 @@
 Data from a natural experiment by Bertrand and Mullaination on racial discrimination in employmer call backs.
 
-The data for this code contains less detail than in the original study
+The data for this code contains less detail than in the original study.
 
 The original study is here: https://www.aeaweb.org/articles?id=10.1257%2F0002828042002561&ref=exo-insight
 
