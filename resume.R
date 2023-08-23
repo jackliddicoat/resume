@@ -61,8 +61,8 @@ d = or_cohen_d(1.57)
 b = length(resume_m$firstname[resume_m$race=="black"])
 w = length(resume_m$firstname[resume_m$race=="white"])
 pwr.2p2n.test(h = d, n1 = b, n2 = w, sig.level = 0.05)
-# The power calculation says that getting a sample with this effect size is
-# somewhat rare, but not impossible
+# The power calculation says that getting a sample with this effect size that is
+# not statistically significant is somewhat rare, but not impossible
 
 ## Fisher test for black and white females
 xtab_f <- table(resume_f$race, resume_f$call)
